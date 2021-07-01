@@ -5,8 +5,8 @@ import pandas as pd
 import numpy as np
 
 
-model=pickle.load(open('LinearRegressionModel.pkl','rb'))
-car=pd.read_csv('Cleaned_Car_data.csv')
+model=pickle.load(open('LinearRegressionModel3.pkl','rb'))
+car=pd.read_csv('Cleaned_Car_data3.csv')
 
 
 
